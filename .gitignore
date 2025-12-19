@@ -1,1 +1,7 @@
-alsa_init
+*.out
+*.wav
+alsa_loop
+player
+visualizer
+gen_music
+gen_music_poly
